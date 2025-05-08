@@ -3,7 +3,7 @@
 This project demonstrates how to build a machine learning model to detect spam emails using the [Spambase dataset](https://www.kaggle.com/datasets/somesh24/spambase). The model is trained using a Random Forest classifier and evaluated with ROC curve and AUC metrics.
 
 ## 📌 Project Goals
- 
+
 - Understand and explore the Spambase dataset.
 - Preprocess the data to prepare it for machine learning.
 - Train a classification model to identify spam emails.
@@ -26,7 +26,7 @@ You can download the dataset directly from Kaggle:
 
 1. Clone the repository:
    ```bash
-   git clone git clone https://github.com/giumarques/SpamDetection.git
+   git clone https://github.com/your-username/spam-detection-rf.git
    cd spam-detection-rf
 
 ## 🧪 Results
